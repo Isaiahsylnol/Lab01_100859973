@@ -1,0 +1,26 @@
+{
+  "name": "lab01_100859973",
+  "version": "1.0.0",
+  "description": "node.js lab week01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "lab01_fullstack"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "code",
+    "javascript",
+    "lab",
+    "functions"
+  ],
+  "author": "Isaiah Sylvester",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
