@@ -34,8 +34,6 @@ function dataDeleter() {
       var arr2 = [];
       var arr3 =[];
        for(let i = 0; i < results.length; i++){
-     
-            //console.log(results[i])
             switch(true) {
                 case (results[i]['country']==="Canada")://if
                 arr2.push(results[i]['country'] + ", " + results[i]['year'] + ", " + results[i]['population'])
